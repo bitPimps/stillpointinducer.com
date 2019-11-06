@@ -44,7 +44,7 @@
 				<p>Dimensions: 6&quot; Wide x 7 3/8&quot; High x 2 1/2&quot; Deep</p>
 				<hr>
 				<div class="embed-responsive embed-responsive-16by9">
-					<iframe class="embed-responsive-item" id="vzvd-2844576" name="vzvd-2844576" src="https://view.vzaar.com/20953447/player"></iframe>
+					<iframe class="embed-responsive-item" id="vzvd-2844576" name="vzvd-2844576" src="https://view.vzaar.com/2844576/player"></iframe>
 				</div>
 			</div>
 			<div class="col-sm-4">
