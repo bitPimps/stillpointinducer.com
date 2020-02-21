@@ -38,7 +38,7 @@
 					<li>Facilitating your body's self-correcting abilities</li>
 					<li>Promoting an overall sense of well-being</li>
 				</ul>
-				<p>This Still Point Inducer&trade; was inspired by Osteopathic Physician John E. Upledger, developer of CranioSacral Therapy. A Still Point is a pause in the craniosacral rhythm and may have many health benefits.</p>
+				<p>This Still Point Inducer&trade; was inspired by Osteopathic Physician John E. Upledger, developer of CranioSacral Therapy. A Still Point is a perceived pause in the craniosacral rhythm and may have many health benefits.</p>
 				<p>In keeping with our green initiative, the Upledger Institute International is now offering the Upledger Still Point Inducer&trade; in a recyclable, easy-to- open carton.</p>
 				<p>New to the package is a CD featuring healing music performed by an accomplished CST practitioner to encourage deep relaxation.</p>
 				<p>Dimensions: 6&quot; Wide x 7 3/8&quot; High x 2 1/2&quot; Deep</p>
