@@ -40,7 +40,8 @@
 				</ul>
 				<p>This Still Point Inducer&trade; was inspired by Osteopathic Physician John E. Upledger, developer of CranioSacral Therapy. A Still Point is a perceived pause in the craniosacral rhythm and may have many health benefits.</p>
 				<p>In keeping with our green initiative, the Upledger Institute International is now offering the Upledger Still Point Inducer&trade; in a recyclable, easy-to- open carton.</p>
-				<p>New to the package is a CD featuring healing music performed by an accomplished CST practitioner to encourage deep relaxation.</p>
+				<p>Includes downloadable soothing chakra balancing music performed by Stan Gerome, Composer, CranioSacral Therapy Practitioner and Upledger Institute Instructor.</p>
+				<p>Instructional use of the Still Point Inducer&trade; is included on the first track of the downloadable music.</p>
 				<p>Dimensions: 6&quot; Wide x 7 3/8&quot; High x 2 1/2&quot; Deep</p>
 				<hr>
 				<div class="embed-responsive embed-responsive-16by9">
@@ -52,7 +53,7 @@
 					<div class="panel-heading">Order Directly From the Source!</div>
 					<div class="panel-body">
 						<div class="thumbnail">
-							<a href="http://shop.iahe.com/Still-Point-Inducer"><img src="https://system.netsuite.com/core/media/media.nl?id=262543&c=698760&h=e77e16e6728a2dceb4e6" class="img-rounded"></a>
+							<a href="http://shop.iahe.com/Still-Point-Inducer"><img src="https://698760.secure.netsuite.com/core/media/media.nl?id=6880017&c=698760&h=nfsQI9VNz2Wk2xl2Y4yiw7m3SfJU10009GvdIR28I1ar-0wi" class="img-rounded"></a>
 						</div>
 						<p><a href="http://shop.iahe.com/Still-Point-Inducer" class="btn btn-success btn-lg" role="button">Purchase Online &raquo;</a></p>
 						<p><strong>Or</strong></p>
