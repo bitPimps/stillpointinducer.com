@@ -75,8 +75,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			</div>
 		</div>
 		<hr>
-		<p><strong>For more information about The Still Point Inducer or The Upledger Institute and Clinic, please visit us online at:</strong></p>
-		<p><a href="https://www.upledger.com/" class="btn btn-info btn-lg" role="button">upledger.com</a></p>
+		<p><strong>For more information about The Still Point Inducer, The Upledger Institute, The Upledger Institute Clinic,  or to find a local trained Practitioner, visit:</strong></p>
+		<p>
+			<a href="https://www.upledger.com/" class="btn btn-info btn-lg" role="button">upledger.com</a> 
+			<a href="https://www.upledgerclinic.com/" class="btn btn-info btn-lg" role="button">upledgerclinic.com</a> 
+			<a href="https://www.iahp.com/" class="btn btn-info btn-lg" role="button">iahp.com</a>
+		</p>
 		<hr>
 		<footer>
 			<p class="text-muted"><small>&copy; <?php echo date("Y"); ?> The Upledger Institute International, Inc.<sup>&reg;</sup></small></p>
