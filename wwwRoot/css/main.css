@@ -1,7 +1,0 @@
-body {padding-bottom: 20px;}
-hr {border-top:1px solid #58c8dd;}
-.jumbotron {background-color:#05b4d3; border-bottom:1px solid #026b7f; -webkit-box-shadow: 0 2px 6px #777; box-shadow: 0 2px 6px #777;}
-.jumbotron h1,.jumbotron p {color:#fff; text-shadow:0 1px 2px #222;}
-.ui-logo {background:url(img/bg_jumbotron.png) top right no-repeat; -webkit-background-size:contain; -moz-background-size:contain; -o-background-size:contain; background-size:contain;}
-.panel {-webkit-box-shadow: 0 2px 6px #999; box-shadow: 0 2px 6px #999;}
-.panel-heading {font-weight:bold;}
