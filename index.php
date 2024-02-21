@@ -55,9 +55,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<p>Instructional use of the Still Point Inducer&trade; is included on the first track of the downloadable music.</p>
 				<p>Dimensions: 6&quot; Wide x 7 3/8&quot; High x 2 1/2&quot; Deep</p>
 				<hr>
-				<div class="embed-responsive embed-responsive-16by9">
-					<iframe class="embed-responsive-item" id="vzvd-2844576" name="vzvd-2844576" src="https://view.vzaar.com/2844576/player"></iframe>
-				</div>
+				<div style='position:relative;height:0;padding-bottom:56.25%'><iframe class='sproutvideo-player' src='https://videos.sproutvideo.com/embed/ac90d6b31918eecc25/e2e856584ed9b49e?playerTheme=dark&amp;playerColor=2f3437' style='position:absolute;width:100%;height:100%;left:0;top:0' frameborder='0' allowfullscreen referrerpolicy='no-referrer-when-downgrade' title='Video Player'></iframe></div>
 			</div>
 			<div class="col-sm-4">
 				<div class="panel panel-info">
